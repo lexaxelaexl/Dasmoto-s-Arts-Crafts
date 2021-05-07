@@ -1,0 +1,37 @@
+.title {
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image: url("Pics/pattern.jpeg");
+}
+
+.title2 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+.title3 {
+	font-weight: bold;
+}
+
+.url {
+	font-family: Helvetica;
+	font-weight: bold;
+	color: blue;
+}
+
+#brushes {
+	background-color: mediumspringgreen;
+}
+
+#frames {
+	background-color: lightcoral;
+}
+
+#paint {
+	background-color: skyblue;
+}
